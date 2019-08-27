@@ -1,16 +1,20 @@
-#from api import *
+from api import *
 from moviepy.editor import VideoFileClip, concatenate_videoclips
+from datetime import date
 
-#download_files()
+today = date.today()
 
-video_names = open("video_names.txt", "w+")
+download_files()
 
-for i in range(len([1, 2, 3, 4, 5, 5])):
-    if (i + 1) % len([1, 2, 3, 4, 5, 5]) != 0:
-        video_names.write("Hello" + "\n")
-    else:
-        video_names.write("Hello")
+list_of_clips = []
+clip_file = open("video_names.txt")
+lines = clip_file.readlines()
 
-video_names.close()
+for line in lines:
+    list_of_clips.append(VideoFileClip(line.strip()))
+
+final_clip = concatenate_videoclips(list_of_clips)
+
+final_clip.write_videofile("top_fortnite_clips_" + str(today) + ".mp4")
 
 
