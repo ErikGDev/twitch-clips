@@ -1,5 +1,5 @@
-video_files/This_update_in_a_nutshell.mp4
-video_files/building_is_fun!.mp4
-video_files/WOAHHHHHHH.mp4
-video_files/Nice.mp4
-video_files/Ricardo_flick.mp4
+video_files/Are_you_crazy?.mp4
+video_files/doc_on_building_nerf.mp4
+video_files/doc_has_lost_it.mp4
+video_files/Quick_Maths.mp4
+video_files/thoughts_on_the_nerf.mp4
