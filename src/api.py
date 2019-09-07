@@ -16,13 +16,13 @@ def dl_mp4(url, file_path, file_name):
     urllib.request.urlretrieve(url, full_path, reporthook=dl_progress)
     return full_path
 
-def request_clips():
+def request_clips(client_id):
     url = "https://api.twitch.tv/kraken/clips/top"
     querystring = {"game":"Fortnite","period":"day","limit":"5","language":"en"}
 
     headers = {
         'Accept': "application/vnd.twitchtv.v5+json",
-        'Client-ID': "hxr54hwv54czdb0ycy1knyo67tquqv",
+        'Client-ID': client_id,
         'User-Agent': "PostmanRuntime/7.15.2",
         'Cache-Control': "no-cache",
         'Postman-Token': "f6d559cc-ab05-41b3-bd3e-9a1b7085d71f,f6a304f1-4a9b-4f5b-a5b8-43036157f866",
@@ -34,6 +34,8 @@ def request_clips():
 
     response = requests.request("GET", url, headers=headers, params=querystring)
     data = json.loads(response.text)
+    with open('video_data.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
     return data
 
 def get_clip_parameters(clip):
@@ -48,7 +50,11 @@ def get_clip_parameters(clip):
 def download_files():
     #Creates certificate for urllib request
     ssl._create_default_https_context = ssl._create_unverified_context
-    data = request_clips()
+    client_id_file = open("client_id.txt")
+    lines = client_id_file.read()
+    client_id = lines.strip()
+    print(client_id)
+    data = request_clips(client_id)
     video_names = open("video_names.txt", "w+")
 
     for i, clip in enumerate(data["clips"]):

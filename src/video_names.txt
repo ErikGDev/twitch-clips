@@ -1,5 +1,0 @@
-video_files/Are_you_crazy?.mp4
-video_files/doc_on_building_nerf.mp4
-video_files/doc_has_lost_it.mp4
-video_files/Quick_Maths.mp4
-video_files/thoughts_on_the_nerf.mp4
