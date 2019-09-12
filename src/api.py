@@ -1,3 +1,6 @@
+"""
+These functions are to be used only in main.py
+"""
 import requests
 import json
 import urllib

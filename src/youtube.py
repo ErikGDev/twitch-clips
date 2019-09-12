@@ -15,6 +15,7 @@ from oauth2client.file import Storage
 from oauth2client.tools import argparser, run_flow
 
 
+
 # Explicitly tell the underlying HTTP transport library not to retry, since
 # we are handling retry logic ourselves.
 httplib2.RETRIES = 1
@@ -80,7 +81,7 @@ def get_authenticated_service(args):
   credentials = storage.get()
 
   if credentials is None or credentials.invalid:
-    credentials = run_flow(flow, storage, args)
+    credentials = run_flow(flow, storage)
 
   return build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
     http=credentials.authorize(httplib2.Http()))
@@ -156,24 +157,20 @@ def resumable_upload(insert_request):
       print("Sleeping %f seconds and then retrying..." % sleep_seconds)
       time.sleep(sleep_seconds)
 
-if __name__ == '__main__':
-  argparser.add_argument("--file", required=True, help="Video file to upload")
-  argparser.add_argument("--title", help="Video title", default="Test Title")
-  argparser.add_argument("--description", help="Video description",
-    default="Test Description")
-  argparser.add_argument("--category", default="22",
-    help="Numeric video category. " +
-      "See https://developers.google.com/youtube/v3/docs/videoCategories/list")
-  argparser.add_argument("--keywords", help="Video keywords, comma separated",
-    default="")
-  argparser.add_argument("--privacyStatus", choices=VALID_PRIVACY_STATUSES,
-    default=VALID_PRIVACY_STATUSES[0], help="Video privacy status.")
-  args = argparser.parse_args()
-  if not os.path.exists(args.file):
+def upload_video_to_youtube(options):
+  if not os.path.exists(options.file):
     exit("Please specify a valid file using the --file= parameter.")
+  
+  youtube = get_authenticated_service(options)
 
-  youtube = get_authenticated_service(args)
   try:
-    initialize_upload(youtube, args)
+    initialize_upload(
+        youtube,
+        options
+    )
+
   except HttpError as e:
     print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
+
+
+

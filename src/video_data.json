@@ -1,5 +1,200 @@
 {
-    "error": "Bad Request",
-    "status": 400,
-    "message": "Invalid client id specified"
+    "clips": [
+        {
+            "slug": "EnchantingThirstySmoothieSpicyBoy",
+            "tracking_id": "532839425",
+            "url": "https://clips.twitch.tv/EnchantingThirstySmoothieSpicyBoy?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=EnchantingThirstySmoothieSpicyBoy&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=EnchantingThirstySmoothieSpicyBoy&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "144587203",
+                "name": "barstoolsports",
+                "display_name": "barstoolsports",
+                "channel_url": "https://www.twitch.tv/barstoolsports",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8781fbea-aca0-41a5-815d-5c380aae27ad-profile_image-150x150.jpeg"
+            },
+            "curator": {
+                "id": "144587203",
+                "name": "barstoolsports",
+                "display_name": "barstoolsports",
+                "channel_url": "https://www.twitch.tv/barstoolsports",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8781fbea-aca0-41a5-815d-5c380aae27ad-profile_image-150x150.jpeg"
+            },
+            "vod": {
+                "id": "480162254",
+                "url": "https://www.twitch.tv/videos/480162254?t=35m4s",
+                "offset": 2104,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png"
+            },
+            "broadcast_id": "35626435456",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "Grey AR Smitty back in Solos action ",
+            "views": 11326,
+            "duration": 56.27,
+            "created_at": "2019-09-11T23:32:22Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C532839425-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C532839425-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C532839425-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "AntediluvianConsiderateDogeThisIsSparta",
+            "tracking_id": "532871410",
+            "url": "https://clips.twitch.tv/AntediluvianConsiderateDogeThisIsSparta?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=AntediluvianConsiderateDogeThisIsSparta&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=AntediluvianConsiderateDogeThisIsSparta&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "27480608",
+                "name": "cizlucky",
+                "display_name": "CizLucky",
+                "channel_url": "https://www.twitch.tv/cizlucky",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/4b83efec-d0f7-4583-8a46-2d0fac4d1440-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "45833935",
+                "name": "vivace",
+                "display_name": "Vivace",
+                "channel_url": "https://www.twitch.tv/vivace",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8eb039c-0c00-4148-a8f5-94beef16eeda-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "480116579",
+                "url": "https://www.twitch.tv/videos/480116579?t=3h50m34s",
+                "offset": 13834,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35625333744",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "pink panther",
+            "views": 3991,
+            "duration": 19.39,
+            "created_at": "2019-09-12T00:43:52Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C532871410-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C532871410-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C532871410-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "VivaciousHardElkNotATK",
+            "tracking_id": "532582827",
+            "url": "https://clips.twitch.tv/VivaciousHardElkNotATK?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=VivaciousHardElkNotATK&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=VivaciousHardElkNotATK&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "32140000",
+                "name": "sypherpk",
+                "display_name": "SypherPK",
+                "channel_url": "https://www.twitch.tv/sypherpk",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/595a3dc1-b291-4371-ba8f-156420929c9f-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "104202037",
+                "name": "tsum0x",
+                "display_name": "tsum0x",
+                "channel_url": "https://www.twitch.tv/tsum0x",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/31387371-caf8-4167-a393-1f8674d730f3-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "479971672",
+                "url": "https://www.twitch.tv/videos/479971672?t=56m9s",
+                "offset": 3369,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png"
+            },
+            "broadcast_id": "35621796768",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "56 dmg pickaxe gg's only",
+            "views": 2127,
+            "duration": 14.78,
+            "created_at": "2019-09-11T15:45:21Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C532582827-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C532582827-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C532582827-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "GrossExcitedEndiveDansGame",
+            "tracking_id": "532534487",
+            "url": "https://clips.twitch.tv/GrossExcitedEndiveDansGame?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=GrossExcitedEndiveDansGame&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=GrossExcitedEndiveDansGame&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "227101767",
+                "name": "setty__",
+                "display_name": "Setty__",
+                "channel_url": "https://www.twitch.tv/setty__",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2f8a2a93-6fdc-427b-8865-6feed78f4ef7-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "120286974",
+                "name": "advisefn",
+                "display_name": "advisefn",
+                "channel_url": "https://www.twitch.tv/advisefn",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6d4ac41-b08d-4dd3-9e11-41ab1e3c049a-profile_image-150x150.jpeg"
+            },
+            "vod": {
+                "id": "479951252",
+                "url": "https://www.twitch.tv/videos/479951252?t=22s",
+                "offset": 22,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35621292192",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "XDDDDDDD",
+            "views": 1109,
+            "duration": 6.48,
+            "created_at": "2019-09-11T13:39:49Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C532534487-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C532534487-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C532534487-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "RelievedFunnyGrasshopperEleGiggle",
+            "tracking_id": "532760000",
+            "url": "https://clips.twitch.tv/RelievedFunnyGrasshopperEleGiggle?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=RelievedFunnyGrasshopperEleGiggle&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=RelievedFunnyGrasshopperEleGiggle&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "106125347",
+                "name": "couragejd",
+                "display_name": "CouRageJD",
+                "channel_url": "https://www.twitch.tv/couragejd",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8b0fb0c-8d54-44bc-ab16-259fad61cb4c-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "221111164",
+                "name": "jrushphoto_",
+                "display_name": "jrushphoto_",
+                "channel_url": "https://www.twitch.tv/jrushphoto_",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9ed51de-2b59-4500-8f48-5222191074ee-profile_image-150x150.jpg"
+            },
+            "vod": {
+                "id": "480098970",
+                "url": "https://www.twitch.tv/videos/480098970?t=51m19s",
+                "offset": 3079,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35624896096",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "FIRST GAME BACK ",
+            "views": 770,
+            "duration": 27.5,
+            "created_at": "2019-09-11T20:56:31Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/35624896096-offset-3106-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/35624896096-offset-3106-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/35624896096-offset-3106-preview-86x45.jpg"
+            }
+        }
+    ],
+    "_cursor": "NQ=="
 }
