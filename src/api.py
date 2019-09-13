@@ -21,7 +21,7 @@ def dl_mp4(url, file_path, file_name):
 
 def request_clips(client_id):
     url = "https://api.twitch.tv/kraken/clips/top"
-    querystring = {"game":"Fortnite","period":"day","limit":"10","language":"en"}
+    querystring = {"game":"Fortnite","period":"day","limit":"3","language":"en"}
 
     headers = {
         'Accept': "application/vnd.twitchtv.v5+json",

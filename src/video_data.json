@@ -1,45 +1,6 @@
 {
     "clips": [
         {
-            "slug": "SpeedyAuspiciousSoybeanYee",
-            "tracking_id": "532930309",
-            "url": "https://clips.twitch.tv/SpeedyAuspiciousSoybeanYee?tt_medium=clips_api&tt_content=url",
-            "embed_url": "https://clips.twitch.tv/embed?clip=SpeedyAuspiciousSoybeanYee&tt_medium=clips_api&tt_content=embed",
-            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SpeedyAuspiciousSoybeanYee&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
-            "broadcaster": {
-                "id": "110690086",
-                "name": "myth",
-                "display_name": "Myth",
-                "channel_url": "https://www.twitch.tv/myth",
-                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0d8b385-823b-4de5-8ec5-3737bc1c233c-profile_image-150x150.png"
-            },
-            "curator": {
-                "id": "87323414",
-                "name": "lmpactz",
-                "display_name": "Lmpactz",
-                "channel_url": "https://www.twitch.tv/lmpactz",
-                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-150x150.jpg"
-            },
-            "vod": {
-                "id": "480246701",
-                "url": "https://www.twitch.tv/videos/480246701?t=37m44s",
-                "offset": 2264,
-                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
-            },
-            "broadcast_id": "35628421776",
-            "game": "Fortnite",
-            "language": "en",
-            "title": "FAILED EYE TEST",
-            "views": 554,
-            "duration": 32.8,
-            "created_at": "2019-09-12T02:59:48Z",
-            "thumbnails": {
-                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C532930309-preview-480x272.jpg",
-                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C532930309-preview-260x147.jpg",
-                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C532930309-preview-86x45.jpg"
-            }
-        },
-        {
             "slug": "AlluringBlazingGrassDxAbomb",
             "tracking_id": "533066610",
             "url": "https://clips.twitch.tv/AlluringBlazingGrassDxAbomb?tt_medium=clips_api&tt_content=url",
@@ -115,6 +76,45 @@
                 "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C532968211-preview-480x272.jpg",
                 "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C532968211-preview-260x147.jpg",
                 "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C532968211-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "FrigidSleepyLatteDxCat",
+            "tracking_id": "532961289",
+            "url": "https://clips.twitch.tv/FrigidSleepyLatteDxCat?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=FrigidSleepyLatteDxCat&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=FrigidSleepyLatteDxCat&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "60056333",
+                "name": "tfue",
+                "display_name": "Tfue",
+                "channel_url": "https://www.twitch.tv/tfue",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2470b5c6-a737-4ba6-8987-c28e0ca839e1-profile_image-150x150.jpg"
+            },
+            "curator": {
+                "id": "105630620",
+                "name": "nbk_alpha",
+                "display_name": "nbk_alpha",
+                "channel_url": "https://www.twitch.tv/nbk_alpha",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/25b64940-ca2a-4155-8340-68f5a611ff53-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "480097830",
+                "url": "https://www.twitch.tv/videos/480097830?t=8h19m22s",
+                "offset": 29962,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35624870960",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "FLYING RPG",
+            "views": 288,
+            "duration": 39.26,
+            "created_at": "2019-09-12T04:21:59Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C532961289-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C532961289-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C532961289-preview-86x45.jpg"
             }
         }
     ],

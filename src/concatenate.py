@@ -4,6 +4,7 @@ These functions are to be used only in main.py
 from moviepy.editor import VideoFileClip, concatenate_videoclips, CompositeVideoClip, TextClip
 from api import *
 import json
+import os
 
 def create_file(today):
     with open('video_data.json') as json_file:
@@ -19,6 +20,7 @@ def create_file(today):
         title_pos = title.set_pos((0.05, 0.8), relative=True)
         resize = CompositeVideoClip([video, title_pos])
         list_of_clips.append(resize)
+        os.remove(line.strip())
 
     filename = "top_fortnite_clips_" + str(today) + ".mp4"
 

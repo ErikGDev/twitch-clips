@@ -4,6 +4,7 @@ from datetime import date
 from concatenate import *
 from video_properties import VideoProperties
 from youtube import *
+import os
 
 
 if __name__ == "__main__":
@@ -17,3 +18,4 @@ if __name__ == "__main__":
     args.get_youtube_video_properties()
 
     upload_video_to_youtube(args)
+    os.remove(filename)
