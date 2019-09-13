@@ -9,15 +9,11 @@ from youtube import *
 if __name__ == "__main__":
 
     today = date.today()
+
     download_files()
-    create_file(today)
-    args = VideoProperties(
-        "top_fortnite_clips_2019-09-13.mp4",
-        "56 dmg pickaxe gg's only",
-        "Test123 123",
-        20,
-        "hello,world,yeet",
-        "private"
-    )
+
+    filename = create_file(today)
+    args = VideoProperties(filename)
+    args.get_youtube_video_properties()
 
     upload_video_to_youtube(args)

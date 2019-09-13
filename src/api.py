@@ -21,7 +21,7 @@ def dl_mp4(url, file_path, file_name):
 
 def request_clips(client_id):
     url = "https://api.twitch.tv/kraken/clips/top"
-    querystring = {"game":"Fortnite","period":"day","limit":"5","language":"en"}
+    querystring = {"game":"Fortnite","period":"day","limit":"10","language":"en"}
 
     headers = {
         'Accept': "application/vnd.twitchtv.v5+json",
@@ -53,10 +53,12 @@ def get_clip_parameters(clip):
 def download_files():
     #Creates certificate for urllib request
     ssl._create_default_https_context = ssl._create_unverified_context
+
     client_id_file = open("client_id.txt")
     lines = client_id_file.read()
     client_id = lines.strip()
     print(client_id)
+
     data = request_clips(client_id)
     video_names = open("video_names.txt", "w+")
 
