@@ -15,7 +15,7 @@ def create_file(today):
 
     for i, line in enumerate(lines):
         clip = data["clips"][i]
-        video = VideoFileClip(line.strip(), target_resolution=(None, 720))
+        video = VideoFileClip(line.strip(), target_resolution=(720, None))
         #Uncomment to implement text clip of title on top of clip. REQUIRES IMAGEMAGICK
         #title = TextClip(txt=clip["broadcaster"]["display_name"] + ": " + clip["title"], font='Impact', color='white', fontsize=50).set_duration(5)
         #title_pos = title.set_pos((0.05, 0.8), relative=True)
