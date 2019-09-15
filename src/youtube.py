@@ -6,6 +6,7 @@ import os
 import random
 import sys
 import time
+import argparse
 
 from apiclient.discovery import build
 from apiclient.errors import HttpError
@@ -81,7 +82,7 @@ def get_authenticated_service(args):
   credentials = storage.get()
 
   if credentials is None or credentials.invalid:
-    credentials = run_flow(flow, storage)
+    credentials = run_flow(flow, storage, args)
 
   return build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
     http=credentials.authorize(httplib2.Http()))
@@ -159,9 +160,17 @@ def resumable_upload(insert_request):
 
 def upload_video_to_youtube(options):
   if not os.path.exists(options.file):
-    exit("Please specify a valid file using the --file= parameter.")
-  
-  youtube = get_authenticated_service(options)
+    exit("Please specify a valid file.")
+  parser = argparse.ArgumentParser()
+  parser.add_argument("--file={}".format(options.file))
+  parser.add_argument("--title={}".format(options.title))
+  parser.add_argument("--description={}".format(options.description))
+  parser.add_argument("--category={}".format(options.category))
+  parser.add_argument("--keywords={}".format(options.keywords))
+  parser.add_argument("--privacyStatus={}".format(options.privacyStatus))
+  args = parser.parse_args()
+
+  youtube = get_authenticated_service(args)
 
   try:
     initialize_upload(

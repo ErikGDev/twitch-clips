@@ -7,6 +7,7 @@ import urllib
 import ssl
 import urllib.request
 import sys
+import os
 
 def dl_progress(count, block_size, total_size):
     percent = int(count * block_size * 100 / total_size)
@@ -16,12 +17,14 @@ def dl_progress(count, block_size, total_size):
 def dl_mp4(url, file_path, file_name):
     full_path = file_path + file_name + '.mp4'
     print(url, full_path)
+    if not os.path.exists(file_path):
+        os.makedirs(file_path)
     urllib.request.urlretrieve(url, full_path, reporthook=dl_progress)
     return full_path
 
 def request_clips(client_id):
     url = "https://api.twitch.tv/kraken/clips/top"
-    querystring = {"game":"Fortnite","period":"day","limit":"3","language":"en"}
+    querystring = {"game":"Fortnite","period":"day","limit":"15","language":"en"}
 
     headers = {
         'Accept': "application/vnd.twitchtv.v5+json",
@@ -42,13 +45,13 @@ def request_clips(client_id):
     return data
 
 def get_clip_parameters(clip):
-    title = clip["title"]
-    title = title.replace(' ', '_')
+    slug = clip["slug"]
+    slug = slug.replace(' ', '_')
     thumbnail = clip["thumbnails"]["small"]
     slide_index = thumbnail.index("-preview-")
     download_url = thumbnail[:slide_index] + ".mp4"
 
-    return (title, download_url)
+    return (slug, download_url)
 
 def download_files():
     #Creates certificate for urllib request
