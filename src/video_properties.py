@@ -1,5 +1,4 @@
 import json
-import math
 
 class VideoProperties:
     def __init__(self, file):
@@ -47,7 +46,8 @@ class VideoProperties:
         description += """
         Thanks for watching! If you have any feedback for this bot, please leave
         a comment and I'll try and use the criticism to improve the video!"""
-        
+        description.replace('<', ' ')
+        description.replace('>', ' ')
         return description
 
     def get_tags(self, data):
