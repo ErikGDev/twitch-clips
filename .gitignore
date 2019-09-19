@@ -1,6 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+.DS_Store
 src/client_secrets.json
 src/youtube.py-oauth2.json
 src/client_id.txt
 src/main.py-oauth2.json
+src/__pycache__
+src/video_data.json
+src/video_names.txt
+src/DS_Store
