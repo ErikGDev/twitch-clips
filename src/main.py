@@ -18,6 +18,6 @@ if __name__ == "__main__":
     args = VideoProperties(filename)
     args.get_youtube_video_properties()
 
-    #upload_video_to_youtube(args)
+    upload_video_to_youtube(args)
 
     os.remove(filename)

@@ -1,17 +1,290 @@
 {
     "clips": [
         {
-            "slug": "ImpartialDeafOctopusTwitchRPG",
-            "tracking_id": "534496691",
-            "url": "https://clips.twitch.tv/ImpartialDeafOctopusTwitchRPG?tt_medium=clips_api&tt_content=url",
-            "embed_url": "https://clips.twitch.tv/embed?clip=ImpartialDeafOctopusTwitchRPG&tt_medium=clips_api&tt_content=embed",
-            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ImpartialDeafOctopusTwitchRPG&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "slug": "FragileEncouragingWrenCoolStoryBro",
+            "tracking_id": "536764980",
+            "url": "https://clips.twitch.tv/FragileEncouragingWrenCoolStoryBro?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=FragileEncouragingWrenCoolStoryBro&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=FragileEncouragingWrenCoolStoryBro&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
             "broadcaster": {
-                "id": "101400190",
-                "name": "72hrs",
-                "display_name": "72hrs",
-                "channel_url": "https://www.twitch.tv/72hrs",
-                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc63c4ad-1edf-46d3-8a80-0eba7d68cbfc-profile_image-150x150.png"
+                "id": "15564828",
+                "name": "nickmercs",
+                "display_name": "NICKMERCS",
+                "channel_url": "https://www.twitch.tv/nickmercs",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/53096eb0-daee-4c72-a3a8-957b7fbdfacf-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "450665945",
+                "name": "awesomebuilder2003",
+                "display_name": "awesomebuilder2003",
+                "channel_url": "https://www.twitch.tv/awesomebuilder2003",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-150x150.jpg"
+            },
+            "vod": {
+                "id": "483158257",
+                "url": "https://www.twitch.tv/videos/483158257?t=6h58m12s",
+                "offset": 25092,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35700476048",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "💲💲 vbucksATM.com 💲💲",
+            "views": 8118,
+            "duration": 30,
+            "created_at": "2019-09-19T00:01:53Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/35700476048-offset-25116-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/35700476048-offset-25116-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/35700476048-offset-25116-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "ClearSmellyShieldRickroll",
+            "tracking_id": "536560579",
+            "url": "https://clips.twitch.tv/ClearSmellyShieldRickroll?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=ClearSmellyShieldRickroll&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ClearSmellyShieldRickroll&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "144587203",
+                "name": "barstoolsports",
+                "display_name": "barstoolsports",
+                "channel_url": "https://www.twitch.tv/barstoolsports",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8781fbea-aca0-41a5-815d-5c380aae27ad-profile_image-150x150.jpeg"
+            },
+            "curator": {
+                "id": "144587203",
+                "name": "barstoolsports",
+                "display_name": "barstoolsports",
+                "channel_url": "https://www.twitch.tv/barstoolsports",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8781fbea-aca0-41a5-815d-5c380aae27ad-profile_image-150x150.jpeg"
+            },
+            "vod": {
+                "id": "483136427",
+                "url": "https://www.twitch.tv/videos/483136427?t=1h32m10s",
+                "offset": 5530,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png"
+            },
+            "broadcast_id": "35699934336",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "Cousin Mike DEFEATS the Storm!",
+            "views": 6849,
+            "duration": 59.99,
+            "created_at": "2019-09-18T17:37:10Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C536560579-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C536560579-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C536560579-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "DifficultSpotlessSardineM4xHeh",
+            "tracking_id": "536779591",
+            "url": "https://clips.twitch.tv/DifficultSpotlessSardineM4xHeh?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=DifficultSpotlessSardineM4xHeh&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=DifficultSpotlessSardineM4xHeh&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "15564828",
+                "name": "nickmercs",
+                "display_name": "NICKMERCS",
+                "channel_url": "https://www.twitch.tv/nickmercs",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/53096eb0-daee-4c72-a3a8-957b7fbdfacf-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "450665945",
+                "name": "awesomebuilder2003",
+                "display_name": "awesomebuilder2003",
+                "channel_url": "https://www.twitch.tv/awesomebuilder2003",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-150x150.jpg"
+            },
+            "vod": {
+                "id": "483158257",
+                "url": "https://www.twitch.tv/videos/483158257?t=7h34m0s",
+                "offset": 27240,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35700476048",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "💲💲 vbucksATM.com 💲💲",
+            "views": 5697,
+            "duration": 30,
+            "created_at": "2019-09-19T00:37:40Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/35700476048-offset-27264-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/35700476048-offset-27264-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/35700476048-offset-27264-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "PiliableHelplessLyrebirdKreygasm",
+            "tracking_id": "536642879",
+            "url": "https://clips.twitch.tv/PiliableHelplessLyrebirdKreygasm?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=PiliableHelplessLyrebirdKreygasm&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=PiliableHelplessLyrebirdKreygasm&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "144587203",
+                "name": "barstoolsports",
+                "display_name": "barstoolsports",
+                "channel_url": "https://www.twitch.tv/barstoolsports",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8781fbea-aca0-41a5-815d-5c380aae27ad-profile_image-150x150.jpeg"
+            },
+            "curator": {
+                "id": "144587203",
+                "name": "barstoolsports",
+                "display_name": "barstoolsports",
+                "channel_url": "https://www.twitch.tv/barstoolsports",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8781fbea-aca0-41a5-815d-5c380aae27ad-profile_image-150x150.jpeg"
+            },
+            "vod": {
+                "id": "483136427",
+                "url": "https://www.twitch.tv/videos/483136427?t=3h41m34s",
+                "offset": 13294,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png"
+            },
+            "broadcast_id": "35699934336",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "Zah served out revenge like NO other as a kid in class...",
+            "views": 5421,
+            "duration": 55.58,
+            "created_at": "2019-09-18T19:55:33Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C536642879-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C536642879-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C536642879-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "DepressedAdventurousMeatloafRaccAttack",
+            "tracking_id": "536816494",
+            "url": "https://clips.twitch.tv/DepressedAdventurousMeatloafRaccAttack?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=DepressedAdventurousMeatloafRaccAttack&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=DepressedAdventurousMeatloafRaccAttack&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "44424631",
+                "name": "nickeh30",
+                "display_name": "NickEh30",
+                "channel_url": "https://www.twitch.tv/nickeh30",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/712cb759-a944-4bf4-9168-0a11723edba5-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "450665945",
+                "name": "awesomebuilder2003",
+                "display_name": "awesomebuilder2003",
+                "channel_url": "https://www.twitch.tv/awesomebuilder2003",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-150x150.jpg"
+            },
+            "vod": {
+                "id": "483276053",
+                "url": "https://www.twitch.tv/videos/483276053?t=3h59m1s",
+                "offset": 14341,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35703327728",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "💲💲 vbucksATM.com 💲💲",
+            "views": 1649,
+            "duration": 26.13,
+            "created_at": "2019-09-19T02:10:40Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/35703327728-offset-14366-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/35703327728-offset-14366-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/35703327728-offset-14366-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "EnticingRelentlessTroutMcaT",
+            "tracking_id": "536816107",
+            "url": "https://clips.twitch.tv/EnticingRelentlessTroutMcaT?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=EnticingRelentlessTroutMcaT&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=EnticingRelentlessTroutMcaT&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "44424631",
+                "name": "nickeh30",
+                "display_name": "NickEh30",
+                "channel_url": "https://www.twitch.tv/nickeh30",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/712cb759-a944-4bf4-9168-0a11723edba5-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "450665945",
+                "name": "awesomebuilder2003",
+                "display_name": "awesomebuilder2003",
+                "channel_url": "https://www.twitch.tv/awesomebuilder2003",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-150x150.jpg"
+            },
+            "vod": {
+                "id": "483276053",
+                "url": "https://www.twitch.tv/videos/483276053?t=3h57m58s",
+                "offset": 14278,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35703327728",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "💲💲 vbucksATM.com 💲💲",
+            "views": 1557,
+            "duration": 25.7,
+            "created_at": "2019-09-19T02:09:37Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/35703327728-offset-14302-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/35703327728-offset-14302-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/35703327728-offset-14302-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "DullOptimisticEggnogSpicyBoy",
+            "tracking_id": "536574854",
+            "url": "https://clips.twitch.tv/DullOptimisticEggnogSpicyBoy?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=DullOptimisticEggnogSpicyBoy&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=DullOptimisticEggnogSpicyBoy&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "15564828",
+                "name": "nickmercs",
+                "display_name": "NICKMERCS",
+                "channel_url": "https://www.twitch.tv/nickmercs",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/53096eb0-daee-4c72-a3a8-957b7fbdfacf-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "201729101",
+                "name": "gameofjones22",
+                "display_name": "GameofJones22",
+                "channel_url": "https://www.twitch.tv/gameofjones22",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-150x150.jpg"
+            },
+            "vod": {
+                "id": "483158257",
+                "url": "https://www.twitch.tv/videos/483158257?t=1h0m16s",
+                "offset": 3616,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35700476048",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "Nick talks about Tim's Head...",
+            "views": 691,
+            "duration": 30,
+            "created_at": "2019-09-18T18:03:55Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/35700476048-offset-3640-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/35700476048-offset-3640-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/35700476048-offset-3640-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "SuccessfulHungryQueleaPermaSmug",
+            "tracking_id": "536504516",
+            "url": "https://clips.twitch.tv/SuccessfulHungryQueleaPermaSmug?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=SuccessfulHungryQueleaPermaSmug&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SuccessfulHungryQueleaPermaSmug&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "198182340",
+                "name": "mrsavage",
+                "display_name": "MrSavage",
+                "channel_url": "https://www.twitch.tv/mrsavage",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/64809cf4-fa40-4094-94d8-46204074ec29-profile_image-150x150.png"
             },
             "curator": {
                 "id": "429620608",
@@ -21,30 +294,69 @@
                 "logo": "https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-150x150.jpg"
             },
             "vod": {
-                "id": "481527774",
-                "url": "https://www.twitch.tv/videos/481527774?t=27m34s",
-                "offset": 1654,
+                "id": "483104786",
+                "url": "https://www.twitch.tv/videos/483104786?t=1h15m49s",
+                "offset": 4549,
                 "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
             },
-            "broadcast_id": "35660096592",
+            "broadcast_id": "62862305",
             "game": "Fortnite",
             "language": "en",
-            "title": "BEST SHOCKWAVE OF ALL TIME",
-            "views": 31365,
-            "duration": 26,
-            "created_at": "2019-09-14T21:34:45Z",
+            "title": "200 iq",
+            "views": 534,
+            "duration": 29.95,
+            "created_at": "2019-09-18T15:42:33Z",
             "thumbnails": {
-                "medium": "https://clips-media-assets2.twitch.tv/35660096592-offset-1680-preview-480x272.jpg",
-                "small": "https://clips-media-assets2.twitch.tv/35660096592-offset-1680-preview-260x147.jpg",
-                "tiny": "https://clips-media-assets2.twitch.tv/35660096592-offset-1680-preview-86x45.jpg"
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C536504516-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C536504516-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C536504516-preview-86x45.jpg"
             }
         },
         {
-            "slug": "RacyAttractiveKuduGrammarKing",
-            "tracking_id": "534495078",
-            "url": "https://clips.twitch.tv/RacyAttractiveKuduGrammarKing?tt_medium=clips_api&tt_content=url",
-            "embed_url": "https://clips.twitch.tv/embed?clip=RacyAttractiveKuduGrammarKing&tt_medium=clips_api&tt_content=embed",
-            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=RacyAttractiveKuduGrammarKing&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "slug": "SavoryBrainyNewtKreygasm",
+            "tracking_id": "536740190",
+            "url": "https://clips.twitch.tv/SavoryBrainyNewtKreygasm?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=SavoryBrainyNewtKreygasm&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SavoryBrainyNewtKreygasm&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "31688366",
+                "name": "symfuhny",
+                "display_name": "Symfuhny",
+                "channel_url": "https://www.twitch.tv/symfuhny",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d41de3c-731d-41ae-b0e7-615ad74db8f3-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "87817722",
+                "name": "vel0x__",
+                "display_name": "vel0x__",
+                "channel_url": "https://www.twitch.tv/vel0x__",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0f67c9c-2ed2-4f35-8852-d398d9208098-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "483189677",
+                "url": "https://www.twitch.tv/videos/483189677?t=4h43m9s",
+                "offset": 16989,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35701245040",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "sym selfie brooke15Gasm",
+            "views": 476,
+            "duration": 12.5,
+            "created_at": "2019-09-18T23:03:27Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C536740190-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C536740190-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C536740190-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "PeppyCrazyCattleFreakinStinkin",
+            "tracking_id": "536786515",
+            "url": "https://clips.twitch.tv/PeppyCrazyCattleFreakinStinkin?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=PeppyCrazyCattleFreakinStinkin&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=PeppyCrazyCattleFreakinStinkin&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
             "broadcaster": {
                 "id": "82524912",
                 "name": "bugha",
@@ -53,70 +365,226 @@
                 "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7d41bcc-5e5c-48b1-a2fd-a963c45b66a1-profile_image-150x150.jpeg"
             },
             "curator": {
-                "id": "140092289",
-                "name": "thefan1111",
-                "display_name": "thefan1111",
-                "channel_url": "https://www.twitch.tv/thefan1111",
-                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-150x150.jpg"
+                "id": "171736754",
+                "name": "aram727",
+                "display_name": "Aram727",
+                "channel_url": "https://www.twitch.tv/aram727",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-150x150.jpg"
             },
             "vod": {
-                "id": "481411642",
-                "url": "https://www.twitch.tv/videos/481411642?t=4h29m13s",
-                "offset": 16153,
+                "id": "483294512",
+                "url": "https://www.twitch.tv/videos/483294512?t=1h53m5s",
+                "offset": 6785,
                 "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
             },
-            "broadcast_id": "35657113904",
+            "broadcast_id": "35703769344",
             "game": "Fortnite",
             "language": "en",
-            "title": "Unselfish Play",
-            "views": 6723,
-            "duration": 20.57,
-            "created_at": "2019-09-14T21:31:58Z",
+            "title": "comp ready btw",
+            "views": 410,
+            "duration": 23.08,
+            "created_at": "2019-09-19T00:54:35Z",
             "thumbnails": {
-                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C534495078-preview-480x272.jpg",
-                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C534495078-preview-260x147.jpg",
-                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C534495078-preview-86x45.jpg"
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C536786515-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C536786515-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C536786515-preview-86x45.jpg"
             }
         },
         {
-            "slug": "ImportantFunnyTitanM4xHeh",
-            "tracking_id": "534490096",
-            "url": "https://clips.twitch.tv/ImportantFunnyTitanM4xHeh?tt_medium=clips_api&tt_content=url",
-            "embed_url": "https://clips.twitch.tv/embed?clip=ImportantFunnyTitanM4xHeh&tt_medium=clips_api&tt_content=embed",
-            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ImportantFunnyTitanM4xHeh&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "slug": "TsundereSneakyAyeayeHumbleLife",
+            "tracking_id": "536726712",
+            "url": "https://clips.twitch.tv/TsundereSneakyAyeayeHumbleLife?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=TsundereSneakyAyeayeHumbleLife&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=TsundereSneakyAyeayeHumbleLife&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
             "broadcaster": {
-                "id": "15564828",
-                "name": "nickmercs",
-                "display_name": "NICKMERCS",
-                "channel_url": "https://www.twitch.tv/nickmercs",
-                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/53096eb0-daee-4c72-a3a8-957b7fbdfacf-profile_image-150x150.png"
+                "id": "214560121",
+                "name": "brookeab",
+                "display_name": "BrookeAB",
+                "channel_url": "https://www.twitch.tv/brookeab",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/83460119-dc38-4dc8-bccf-3323c53af90f-profile_image-150x150.jpeg"
             },
             "curator": {
-                "id": "221111164",
-                "name": "jrushphoto_",
-                "display_name": "jrushphoto_",
-                "channel_url": "https://www.twitch.tv/jrushphoto_",
-                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9ed51de-2b59-4500-8f48-5222191074ee-profile_image-150x150.jpg"
+                "id": "87817722",
+                "name": "vel0x__",
+                "display_name": "vel0x__",
+                "channel_url": "https://www.twitch.tv/vel0x__",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0f67c9c-2ed2-4f35-8852-d398d9208098-profile_image-150x150.png"
             },
             "vod": {
-                "id": "481387091",
-                "url": "https://www.twitch.tv/videos/481387091?t=5h20m22s",
-                "offset": 19222,
+                "id": "483247144",
+                "url": "https://www.twitch.tv/videos/483247144?t=1h43m54s",
+                "offset": 6234,
                 "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
             },
-            "broadcast_id": "35656474352",
+            "broadcast_id": "35702625712",
             "game": "Fortnite",
             "language": "en",
-            "title": "NATE IS INSANE",
-            "views": 4082,
-            "duration": 45.98,
-            "created_at": "2019-09-14T21:23:49Z",
+            "title": "snipee",
+            "views": 410,
+            "duration": 7.9,
+            "created_at": "2019-09-18T22:33:18Z",
             "thumbnails": {
-                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C534490096-preview-480x272.jpg",
-                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C534490096-preview-260x147.jpg",
-                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C534490096-preview-86x45.jpg"
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C536726712-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C536726712-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C536726712-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "ObliqueAgreeableBillTriHard",
+            "tracking_id": "536407639",
+            "url": "https://clips.twitch.tv/ObliqueAgreeableBillTriHard?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=ObliqueAgreeableBillTriHard&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ObliqueAgreeableBillTriHard&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "39298218",
+                "name": "dakotaz",
+                "display_name": "dakotaz",
+                "channel_url": "https://www.twitch.tv/dakotaz",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/473aea0f-a724-498f-b7f1-e344f806ba8a-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "415109600",
+                "name": "ttvpprogamer67",
+                "display_name": "ttvpprogamer67",
+                "channel_url": "https://www.twitch.tv/ttvpprogamer67",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/13a3009e-8b16-49e8-9fef-087cb8bc1972-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "483012924",
+                "url": "https://www.twitch.tv/videos/483012924?t=4h3m46s",
+                "offset": 14626,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35696841344",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "Dakotaz Killed A Recon Expert! ",
+            "views": 346,
+            "duration": 14.15,
+            "created_at": "2019-09-18T10:40:36Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C536407639-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C536407639-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C536407639-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "LivelySwissPancakeBatChest",
+            "tracking_id": "536745036",
+            "url": "https://clips.twitch.tv/LivelySwissPancakeBatChest?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=LivelySwissPancakeBatChest&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=LivelySwissPancakeBatChest&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "31688366",
+                "name": "symfuhny",
+                "display_name": "Symfuhny",
+                "channel_url": "https://www.twitch.tv/symfuhny",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d41de3c-731d-41ae-b0e7-615ad74db8f3-profile_image-150x150.png"
+            },
+            "curator": {
+                "id": "213414926",
+                "name": "bigalc",
+                "display_name": "BigAlC",
+                "channel_url": "https://www.twitch.tv/bigalc",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9cff696-f36e-4081-a59c-4351d3f0e54d-profile_image-150x150.jpg"
+            },
+            "vod": {
+                "id": "483189677",
+                "url": "https://www.twitch.tv/videos/483189677?t=4h8m24s",
+                "offset": 14904,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png"
+            },
+            "broadcast_id": "35701245040",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "BROOKEAB IS MAAAAD",
+            "views": 331,
+            "duration": 38.57,
+            "created_at": "2019-09-18T23:15:01Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/vod-483189677-offset-14938-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/vod-483189677-offset-14938-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/vod-483189677-offset-14938-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "AthleticEmpathicStarDoggo",
+            "tracking_id": "536724629",
+            "url": "https://clips.twitch.tv/AthleticEmpathicStarDoggo?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=AthleticEmpathicStarDoggo&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=AthleticEmpathicStarDoggo&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "214560121",
+                "name": "brookeab",
+                "display_name": "BrookeAB",
+                "channel_url": "https://www.twitch.tv/brookeab",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/83460119-dc38-4dc8-bccf-3323c53af90f-profile_image-150x150.jpeg"
+            },
+            "curator": {
+                "id": "452856614",
+                "name": "josephwarren21",
+                "display_name": "josephwarren21",
+                "channel_url": "https://www.twitch.tv/josephwarren21",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-150x150.jpg"
+            },
+            "vod": {
+                "id": "483247144",
+                "url": "https://www.twitch.tv/videos/483247144?t=1h39m22s",
+                "offset": 5962,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35702625712",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "i'm not creative enough for titles :D",
+            "views": 311,
+            "duration": 29.17,
+            "created_at": "2019-09-18T22:28:51Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/35702625712-offset-5992-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/35702625712-offset-5992-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/35702625712-offset-5992-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "SuccessfulLazyFlyFloof",
+            "tracking_id": "536780247",
+            "url": "https://clips.twitch.tv/SuccessfulLazyFlyFloof?tt_medium=clips_api&tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=SuccessfulLazyFlyFloof&tt_medium=clips_api&tt_content=embed",
+            "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SuccessfulLazyFlyFloof&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+            "broadcaster": {
+                "id": "214560121",
+                "name": "brookeab",
+                "display_name": "BrookeAB",
+                "channel_url": "https://www.twitch.tv/brookeab",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/83460119-dc38-4dc8-bccf-3323c53af90f-profile_image-150x150.jpeg"
+            },
+            "curator": {
+                "id": "150855719",
+                "name": "flcw",
+                "display_name": "flcw",
+                "channel_url": "https://www.twitch.tv/flcw",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e15adef-655e-492a-a2c1-91a38c32735f-profile_image-150x150.jpeg"
+            },
+            "vod": {
+                "id": "483247144",
+                "url": "https://www.twitch.tv/videos/483247144?t=3h50m4s",
+                "offset": 13804,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "35702625712",
+            "game": "Fortnite",
+            "language": "en",
+            "title": "Solo Cash Cup Viewing Party",
+            "views": 301,
+            "duration": 29.17,
+            "created_at": "2019-09-19T00:39:25Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/35702625712-offset-13832-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/35702625712-offset-13832-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/35702625712-offset-13832-preview-86x45.jpg"
             }
         }
     ],
-    "_cursor": "Mw=="
+    "_cursor": "MTU="
 }

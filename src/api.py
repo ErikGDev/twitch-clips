@@ -17,7 +17,7 @@ def request_clips(client_id):
     """
     #Change these values to alter what clips you want to download
     #DEFAULT: Top 15 Fortnite clips from the last day, langauge is English
-    LIMIT = 3
+    LIMIT = 15
     GAME = "Fortnite"
     PERIOD = "day"
     LANGUAGE = "en"
